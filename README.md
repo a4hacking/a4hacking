@@ -7,4 +7,4 @@ Downloading.
 
 First download all the stuff on the a4 executor
 Then put into a folder
-Run the exe and there you go
+Run the Executor 3 exe and there you go
